@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_back.xml" value="0.33" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_core.xml" value="0.33" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_core2.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_create.xml" value="0.3875" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_display.xml" value="0.3875" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_email.xml" value="0.3875" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_head.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_launch.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_leg.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_list.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_splash.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/activity_stopwatch.xml" value="0.3875" />
+        <entry key="..\:/Users/sdavg/AndroidStudioProjects/Yoga_Meditation_App/app/src/main/res/layout/person_adapter_layout.xml" value="0.1661600810536981" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

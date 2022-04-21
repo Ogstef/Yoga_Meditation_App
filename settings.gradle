@@ -1,0 +1,3 @@
+
+rootProject.name = "Yoga_Meditation_App"
+include ':app'

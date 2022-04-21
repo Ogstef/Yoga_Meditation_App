@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="acg.edu.yoga_meditation_app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Yoga_Meditation_App">
+        <activity
+            android:name=".activities.BackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CoreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.LegActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.HeadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DisplayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.EmailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StopwatchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CreateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DetailActivity"
+            android:exported="false" />
+        <activity android:name=".activities.ShowPeopleActivity" />
+        <activity
+            android:name=".activities.LaunchActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

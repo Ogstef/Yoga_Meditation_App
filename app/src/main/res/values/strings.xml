@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Yoga_Meditation_App</string>
+    <string name="yogi">Yogi</string>
+    <string name="get_started">Get started</string>
+    <string name="built_for">Built for</string>
+    <string name="users">All users</string>
+    <string name="add_your_first_user">Add your first user</string>
+    <string name="add">Add</string>
+    <string name="display_poses">Display Poses</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="send_email_to_self">Send email to self</string>
+    <string name="take_progress_picture">Take picture for form evaluation</string>
+    <string name="gender_unknown">Gender Unknown</string>
+    <string name="profile_info">Profile Information</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="weight_label">Weight:</string>
+    <string name="kg">kg</string>
+    <string name="save">Save</string>
+    <string name="dob_error">Please enter a date with the format D-M-YYYY</string>
+    <string name="weight_error">Please enter a valid number</string>
+    <string name="name_error">Name cannot be empty</string>
+    <string name="surname_error">Surname cannot be empty</string>
+    <string name="info">%s, born on %s</string>
+    <string name="weight">Weight: %s kg</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="email_yourself">Send email to self</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="email_body">Email body</string>
+    <string name="send">Send</string>
+    <string name="body_text">Dear self, \nYou have done your yoga and meditation for the day.\nBelieve in yourself, trust your instincts \nand live life to the fullest each and every second.\nYours truly.</string>
+    <string name="no_mail">No activity for email found</string>
+    <string name="subject_text">You did awesome today!!</string>
+    <string name="mind">Mind</string>
+    <string name="abdominal">core</string>
+    <string name="legs">Legs</string>
+    <string name="Listactive">List Activity</string>
+    <string name="boat_text">Breathing right is key for this pose. Remember to flex both the core and the legs for this exercise. Maximum time should be 1 minute. Stay in this pose for at most 10–20 breaths and repeat no more than 4 times.(sets)</string>
+    <string name="boat_pose_cap">Boat Pose</string>
+    <string name="introtocore">Get Ready to Stregthen your Core</string>
+    <string name="dolphin_text">Similar to the regular plank, but adding the dolphin pose. Goal is to keep arms parallel to each other when on the floor, while also curling your toes but keeping that core engaged almost as if your body is a table. Perform for 30 seconds, for 2–3 times but rest up properly before each execution</string>
+    <string name="warriortext">Start out in lunge position. Extend arms upwards but keep them parallel. Focus on breathing deeply, especially on exhaling which is what contracts alot of the core in this exercise. Repeat 2 times per leg for around 30 seconds - 1 minute.</string>
+    <string name="Bridgetext">Although this does bring the back muscles into play. We will see a different variation of this in our back category which will target the back even better. Remember to breath in and out while holding the position and press your arms on the floor almost as if you want to lift your whole body. Hold for 20-30 breaths.</string>
+    <string name="introtolegs">Get Ready to Strenthen your Legs</string>
+    <string name="DownDog">Downward-Facing Dog Pose</string>
+    <string name="dogstring">Streches back, hamstrings, glutes and calves, along with upper body muscles such as shoulders. Extreme flexibility can be showcased by having the no space between heels and floor.</string>
+    <string name="triangle_pose">Triangle Pose</string>
+    <string name="Tposestring">Triangle pose focuses on stretching and lengthening the muscles in your thighs, hips, and back. You should also feel a good stretch in your hamstrings.</string>
+    <string name="BridgevarText">Bridge Pose can help strengthen your glutes, hamstrings, and lower back. It’s also an excellent hip and chest opener.</string>
+    <string name="Halfmoontext">This standing pose helps strengthen your quads, glutes, ankles, and core. It also stretches your hamstrings, calves, and groin muscles.</string>
+    <string name="mindtext">Get Ready to Strengthen your Mind</string>
+    <string name="medtext">Meditating cross-legged is an excellent option for those with open hips and no joint problems. Sitting with crossed legs is symmetrical, secure, feels grounding, and allows for an unrestricted flow of prana throughout the body.</string>
+    <string name="cross_legged_position">Cross Legged Position</string>
+    <string name="kneeling_pose">Kneeling Pose</string>
+    <string name="kneelText">If you prefer to sit on the ground, but crossed legs are causing discomfort, kneeling in Hero pose is another possibility for a grounding meditation seat that lengthens the spine. Either sit back on your heels or add cushions underneath your sit bones to help alleviate weight-bearing stress on your lower body.</string>
+    <string name="textChair">Many people find that it’s most comfortable to meditate while sitting on a chair. If possible, sit near the edge of the chair, with a straight spine, relaxed shoulders, hands in your lap and your feet flat on the floor.</string>
+    <string name="chair_position">Chair Position</string>
+    <string name="get_ready_to_strengthen_your_back">Get Ready to Strengthen your Back</string>
+    <string name="catcowdes">Get on all fours. Balance your weight evenly between all four points. Inhale as you look up and let your stomach drop down toward the mat. Exhale as you tuck your chin into your chest, and arch your spine toward the ceiling. Maintain awareness of your body as you do this movement. Focus on noting and releasing tension in your body. Continue this fluid movement for at least 1 minute.</string>
+    <string name="vwpose">Victorious Warrior Pose</string>
+    <string name="CatCow">Cat - Cow</string>
+    <string name="dwfdog">Downward-Facing Dog</string>
+    <string name="dwfdogdesc">Place your hands in alignment under your wrists and your knees under your hips. Press into your hands, tuck your toes under, and lift up your knees. Keep a slight bend in your knees and lengthen your spine and tailbone. Keep your heels slightly off the ground. Distribute your weight evenly between both sides of your body, paying attention to the position of your hips and shoulders. Keep your head in line with your upper arms or with your chin tucked in slightly. Hold this pose for up to 1 minute.</string>
+    <string name="extriangle">Extended Triangle</string>
+    <string name="extTriangleDesc">From standing, walk your feet about 4 feet apart. Turn your right toes to face forward, and your left toes out at an angle. Lift your arms parallel to the floor with your palms facing down. Tilt forward and hinge at your right hip to come forward with your arm and torso. Bring your hand to your leg, a yoga block, or onto the floor. Extend your left arm up toward the ceiling. Look up, forward, or down. Hold this pose for up to 1 minute. Repeat on the opposite side.</string>
+    <string name="twokneetwistdesc">Lie on your back with your knees drawn into your chest and your arms extended to the side. Slowly lower your legs to the left side while keeping your knees as close together as possible. You may place a pillow under both knees or in between your knees. You can use your left hand to gently press down on your knees. Keep your neck straight, or turn it to either side. Focus on breathing deeply in this position. Hold this pose for at least 30 seconds. Repeat on the opposite side.</string>
+
+    <string-array name="genders">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

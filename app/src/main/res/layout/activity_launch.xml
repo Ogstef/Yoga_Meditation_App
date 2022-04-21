@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.LaunchActivity"
+    android:background="@drawable/yoga_background">
+    <ImageView
+        android:id="@+id/yogi"
+        android:layout_width="159dp"
+        android:layout_height="160dp"
+        android:adjustViewBounds="true"
+        android:src="@mipmap/yogi"
+        android:visibility="invisible"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/yogi" />
+
+
+    <Button
+        android:id="@+id/get_started"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/get_started"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="120dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/built_for"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginBottom="60dp"
+        />
+
+    <ImageView
+        android:id="@+id/flag"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:src="@mipmap/flag"
+        android:layout_marginBottom="14dp"
+        android:layout_marginStart="20dp"
+        android:layout_alignParentBottom="true" />
+
+
+
+</RelativeLayout>
